@@ -1,6 +1,7 @@
 # Master-Thesis
 
 Dealing with anomalies in robotenabled industrial quality control laboratory
+
 Mario Fiorino 1871233
 
 In this repository, the final work of the master's degree course in Artificial Intelligence and Robotics - Academic Year 2020-21, Sapienza, Rome
