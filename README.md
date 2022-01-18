@@ -1,4 +1,8 @@
 # Master-Thesis
+
+Dealing with anomalies in robotenabled industrial quality control laboratory
+Mario Fiorino 1871233
+
 In this repository, the final work of the master's degree course in Artificial Intelligence and Robotics - Academic Year 2020-21, Sapienza, Rome
 
 This thesis work was born and developed within the European context: AIPlan4EU: https://www.aiplan4eu-project.eu/   from the collaboration of the Procter & Gamble Services Company - Belgium, and Sapienza University of Rome.
