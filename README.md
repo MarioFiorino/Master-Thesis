@@ -18,9 +18,8 @@ In Chapter 2, an introduction to AI planning, the basic ideas of computational l
 
 In Chapter 3, the software technology used for the building of the robot simulator and its virtual lab environment: Docker, ROS, Gazebo, is described. Their advantages and disadvantages, how they have been used to develop this thesis, and the results obtained are shown. Then are presented an essential description of the main real laboratory tools: Universal Robot 5 and Robotiq 2F-85 gripper, digitized in the simulator. The chapter ends with Petri Net Plans and PlanExecution Interface frameworks, with which the plans were implemented.
 
-In Chapter 4, the nominal plan as a whole; the result of analysis the cases of the fail: their categorization into four areas; and finally the principles, centered around the concept of Human-in-the-loop, underlying the proposed recovery solution are
-illustrated.
+In Chapter 4, the nominal plan as a whole; the result of analysis the cases of the fail: their categorization into four areas; and finally the principles, centered around the concept of Human-in-the-loop, underlying the proposed recovery solution are illustrated.
 
-In Chapter 5 the implementation phase of the plans and its results are presented. Starting from the design of simple plans, more complex plans have been formulated,and, at the end, proposed directions and objectives for future works.
+In Chapter 5, the implementation phase of the plans and its results are presented. Starting from the design of simple plans, more complex plans have been formulated,and, at the end, proposed directions and objectives for future works.
 
-In Appendix a series of technical aspects, used in this thesis, are presented; for the reader who would like to know more.
+In Appendix, a series of technical aspects, used in this thesis, are presented; for the reader who would like to know more.
