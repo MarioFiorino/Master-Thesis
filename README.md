@@ -4,7 +4,7 @@ Dealing with anomalies in robot-enabled industrial quality control laboratory - 
 
 In this repository, the final work of the master's degree course in Artificial Intelligence and Robotics - Academic Year 2020-21, Sapienza, Rome
 
-[Site](https://sites.google.com/view/mariofiorinothesis/home)
+https://sites.google.com/view/mariofiorinothesis/home
 
 This thesis work was born and developed within the European context: [AIPlan4EU](https://www.aiplan4eu-project.eu/) from the collaboration of the Procter & Gamble Services Company - Belgium, and Sapienza University of Rome.
 
