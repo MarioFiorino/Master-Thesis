@@ -5,15 +5,15 @@ Dealing with anomalies in robot-enabled industrial quality control laboratory - 
 In this repository, the final work of the master's degree course in Artificial Intelligence and Robotics - Academic Year 2020-21, Sapienza, Rome
 https://sites.google.com/view/mariofiorinothesis/home
 
-This thesis work was born and developed within the European context: AIPlan4EU: https://www.aiplan4eu-project.eu/   from the collaboration of the Procter & Gamble Services Company - Belgium, and Sapienza University of Rome.
+This thesis work was born and developed within the European context: [AIPlan4EU](https://www.aiplan4eu-project.eu/) from the collaboration of the Procter & Gamble Services Company - Belgium, and Sapienza University of Rome.
 
 I had a chance to develop a robotic simulator in Docker container, a framework for AI planning that includes the paradigm "Human-in-the-loop", and designed various AI plans. 
 
-This thesis is the starting point of a project that, started on January 2021, will continue for the next three years. This and the works that will be subsequently developed, will be stored and published in the GitHub repository of Prof. Luca Iocchi : https://github.com/iocchi
+This thesis is the starting point of a project that, started on January 2021, will continue for the next three years. This and the works that will be subsequently developed, will be stored and published in the GitHub repository of [Prof. Luca Iocchi](https://github.com/iocchi).
 
 # Brief presentation of the chapters
 
-In Chapter 1, the introduction to this thesis work.
+In Chapter 1, motivations and objectives of this thesis work.
 
 In Chapter 2, an introduction to AI planning, the basic ideas of computational learning technique in the field of robotic behaviors, and Learning from Demonstration paradigm are briefly presented. With this in mind, the description of the main papers which have inspired the formation of this thesis work and its future developments are outlined.
 
